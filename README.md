@@ -12,7 +12,7 @@
 
 - 💼 I'm currently looking for **Internships this 2024 Summer and onwards.**
 
-- 📫 How to reach me [**via my email**](mailto:: aymenshoteri@gmail.com
+- 📫 How to reach me [**via my email**](mailto:: aymenshoteri@gmail.com)
 
 - ⚡ Fun fact **I like to engage in simulated racing and things of that sort.**
 
