@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on a new ** Full-stack project!**
+- 👯 I’m looking to collaborate on a new **Full-stack project!**
 
-- 🤝 I’m looking for help with **building a McMaster app for students looking for empty lecture halls**
+- 🤝 I’m looking for help with building a McMaster app for students looking for empty lecture halls
 
 - 💼 I'm currently looking for **Internships this 2024 Summer and onwards.**
 
 - 📫 How to reach me **[via my email](mailto:aymenshoteri@gmail.com)**
   
-- ⚡ Fun fact **I like to engage in simulated racing and things of that sort.**
+- ⚡ Fun fact **I like to engage in simulated racing.**
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
