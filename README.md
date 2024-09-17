@@ -2,7 +2,7 @@
 
 <h3 align="left">3rd Year McMaster University, studying Computer Science and Mathematics</h3>
 
-- 🔭 I’m currently working on a new React.js project, and changing up my [personal website.](https://aymens02.github.io/AymenShoteri.github.io/)
+- 🔭 I’m currently working on a new React.js project, and changing up my [personal website.](https://aymenshoteri.com/)
 
 - 🌱 I’m currently learning **Node.js**
 
