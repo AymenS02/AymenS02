@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with building a McMaster app for students looking for empty lecture halls
 
-- 💼 I'm currently looking for **Internships this 2024 Summer and onwards.**
+- 💼 I'm currently looking for **Internships this 2025 Winter and onwards.**
 
 - 📫 How to reach me **[via my email](mailto:aymenshoteri@gmail.com)**
   
