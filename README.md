@@ -1,6 +1,6 @@
 ![headerBIO](https://github.com/AymenS02/AymenS02/assets/95427313/1cf56cbb-a855-4bcf-a6a9-cab25d3ff599)
 
-<h3 align="left">3rd Year McMaster University, studying Computer Science and Mathematics</h3>
+<h3 align="left">4th Year McMaster University, studying Computer Science and Mathematics</h3>
 
 - 🔭 I’m currently working on a new React.js project, and changing up my [personal website.](https://aymenshoteri.com/)
 
