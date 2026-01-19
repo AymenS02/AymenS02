@@ -1,22 +1,21 @@
-![headerBIO](https://github.com/AymenS02/AymenS02/assets/95427313/1cf56cbb-a855-4bcf-a6a9-cab25d3ff599)
+## 𝙃𝙚𝙮, 𝙄'𝙢 𝘼𝙮𝙢𝙚𝙣 🏂
 
-<h3 align="left">4th Year McMaster University, studying Computer Science and Mathematics</h3>
+**`Full Stack Engineer`** | **`Software Engineer`**
 
-- 🔭 I’m currently working on a new React.js project, and changing up my [personal website.](https://aymenshoteri.com/)
+`React` `TypeScript` `Tailwind` `Python` `NodeJS` `MongoDB`
 
-- 🌱 I’m currently learning **Node.js**
+Porfolio → https://aymenshoteri.com  
+LinkedIn → https://www.linkedin.com/in/aymen-shoteri/
 
-- 👯 I’m looking to collaborate on a new **Full-stack project!**
 
-- 🤝 I’m looking for help with building a McMaster app for students looking for empty lecture halls
 
-- 💼 I'm currently looking for **Internships this 2025 Winter and onwards.**
 
-- 📫 How to reach me **[via my email](mailto:aymenshoteri@gmail.com)**
-  
-- ⚡ Fun fact **I like to engage in simulated racing.**
-<hr>
+##
+Current Project: [Demo]([https://your-demo-link.com](https://markaz-umaza.vercel.app/))
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<hr>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AymenS02&repo=markaz-umaza&bg_color=000000&title_color=6a89d1&text_color=6a89d1&icon_color=6a89d1)](https://github.com/AymenS02/markaz-umaza)  
+
+
+##
+
+![Total Commits Last Year](https://github-readme-stats.vercel.app/api?username=aymens02&hide=stars,prs,issues,contribs&include_all_commits=false&custom_title=Total%20Commits%20Last%20Year&theme=blue_navy)
