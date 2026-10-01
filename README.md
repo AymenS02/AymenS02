@@ -11,7 +11,7 @@ LinkedIn → https://www.linkedin.com/in/aymen-shoteri/
 
 
 ##
-Current Project: [Demo](https://khansfood.ca/)])
+Current Project: [Demo](https://khansfood.ca/))
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AymenS02&repo=Khans-Food&bg_color=000000&title_color=6a89d1&text_color=6a89d1&icon_color=6a89d1)](https://github.com/AymenS02/Khans-Food)  
 
