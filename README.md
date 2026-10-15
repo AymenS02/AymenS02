@@ -1,6 +1,6 @@
 ## 𝙃𝙚𝙮, 𝙄'𝙢 𝘼𝙮𝙢𝙚𝙣 🏂
 
-**`Full Stack Engineer`** | **`Software Engineer`**
+**`Full Stack Engineer`** | **`Software Engineer`** | **`Cloud Engineer`**
 
 `React` `TypeScript` `Tailwind` `Python` `NodeJS` `MongoDB`
 
