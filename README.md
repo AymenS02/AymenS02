@@ -7,6 +7,8 @@
 Porfolio → https://aymenshoteri.com  
 LinkedIn → https://www.linkedin.com/in/aymen-shoteri/
 
+Current Work --> Volunteering for the Muslim Association of Hamilton as a Full Stack Engineer for their Public Website and App
+
 
 
 
